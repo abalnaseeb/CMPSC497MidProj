@@ -36,6 +36,8 @@ After downloading the zip file make sure you unzip it, you should have the follo
 3 - Organize the Files
 Make sure those files are in project directory under `.../CMPSC497MidProj/Data/glove.6B`
 
+![Screenshot 2025-02-28 at 7 35 59 PM](https://github.com/user-attachments/assets/d754fc18-c7ca-473f-9603-47bd3f2a9b4c)
+
 ## Run Application
 -  Open terminal and go to project folder
 - Go to Base_Model folder in the project i.e. ```cd Base_Model```
