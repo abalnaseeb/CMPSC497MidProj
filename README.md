@@ -18,6 +18,24 @@
 
   ```pip install -r requirements.txt```
 
+
+## **Dataset**
+
+1 - Download the GloVe embeddings from the following link (since github cannot store data bigger than 100MB):
+
+ 	https://nlp.stanford.edu/data/glove.6B.zip
+
+2 - Extract the Files
+After downloading the zip file make sure you unzip it, you should have the following .txt files:
+- glove.6B.50d.txt
+- glove.6B.100d.txt
+- glove.6B.200d.txt
+- glove.6B.300d.txt
+
+  
+3 - Organize the Files
+Make sure those files are in project directory under `.../CMPSC497MidProj/Data/glove.6B`
+
 ## Run Application
 -  Open terminal and go to project folder
 - Go to Base_Model folder in the project i.e. ```cd Base_Model```
